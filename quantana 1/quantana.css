@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.log-in-container {
+    height: 100vh;
+
+}
+
+.bg-blue {
+    background-color: #3f476e;
+    height: 100vh;
+    background-size: cover;
+    justify-content: center;
+    padding: 5px;
+
+}
+
+.k-image-container {
+    text-align: center;
+}
+
+.login-container {
+    align-items: center;
+    overflow: auto;
+}
+
+.k-image {
+    height: 100px;
+
+}
+
+.commas {
+    height: 15px;
+    width: 25px;
+}
+
+.title {
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+.login-texts {
+    font-family: "Roboto";
+    font-size: 10px;
+}
+
+.star {
+    color: red;
+}
+
+.button {
+    font-family: "Roboto";
+    font-size: 13px;
+    background-color: #d4b272;
+    border-radius: 15px;
+    border-width: 0px;
+    text-align: center;
+    width: 150px;
+    padding: 10px;
+}
+
+.forgot-pass {
+    font-family: "Roboto";
+    font-size: 12px;
+
+}
+
+.register {
+    color: #d4b272;
+}
+
+.input-ele {
+    height: 18px;
+    font-size: 12px;
+    border-radius: 5px;
+    border-width: 0px;
+}
+
+.login-container {
+    height: 100vh;
+}
+
+.description {
+    color: #ffffff;
+    font-family: "Optima, sans-serif";
+    font-size: 20px;
+
+}
+
+.dots-container {
+    text-align: center;
+}
+
+.dots {
+    height: 7px;
+}
